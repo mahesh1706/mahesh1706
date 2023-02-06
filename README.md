@@ -11,7 +11,7 @@
  - I like writing about technology and life in general.
 
 ## ⚡ Stats
- (https://github-readme-stats.vercel.app/api?username=mahesh1706)](https://github.com/mahesh1706/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahesh1706)](https://github.com/mahesh1706/github-readme-stats)
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Karansidds&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
