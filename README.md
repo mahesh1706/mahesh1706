@@ -12,7 +12,7 @@
  
  🔓 Achivements - 
  
- |![](https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png)|![](https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png)
+ |![](https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png)|![](https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png)|---|---|---|---|
 
 ## ⚡ Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahesh1706)](https://github.com/mahesh1706/github-readme-stats)
