@@ -24,7 +24,7 @@
 58
 ​
 59
-|![Animation](https://raw.githubusercontent.com/mahesh1706/bylickilabs/output/github-contribution-grid-snake-dark.svg)|
+|![Animation](https://raw.githubusercontent.com/mahesh1706/mahesh1706/output/github-contribution-grid-snake-dark.svg)|
 60
 |---|
 
