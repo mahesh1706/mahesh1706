@@ -11,7 +11,7 @@
  - I like writing about technology and life in general.
  
  🔓 Achivements - 
- |![](https://user-images.githubusercontent.com/109308073/209476319-46299716-ebb4-404f-82f4-0b7f6629dc2c.png)
+ |![](https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png)
 
 ## ⚡ Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahesh1706)](https://github.com/mahesh1706/github-readme-stats)
