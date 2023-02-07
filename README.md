@@ -10,9 +10,7 @@
  - I am also interested in web3 (Decentralized Web) and currenly learning about technologies such as Smart Contracts, Blockchain, NFTs, etc.
  - I like writing about technology and life in general.
  
- 🔓 Achivements - 
  
- |![](https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png)|![](https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png)|---|---|---|---|
 
 ## ⚡ Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahesh1706)](https://github.com/mahesh1706/github-readme-stats)
