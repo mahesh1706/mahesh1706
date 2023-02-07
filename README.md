@@ -20,8 +20,13 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahesh1706&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
-
+> **🐍 Activity Snake**:
+58
+​
+59
+|![Animation](https://raw.githubusercontent.com/mahesh1706/bylickilabs/output/github-contribution-grid-snake-dark.svg)|
+60
+|---|
 
 
 
