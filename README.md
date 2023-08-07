@@ -8,7 +8,7 @@
  - I am Maheshwaran M. 
  
  <div><p>
- <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahesh1706&theme=default">
+
 </p?
 </div>
 
