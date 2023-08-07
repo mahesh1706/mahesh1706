@@ -6,9 +6,6 @@
 
 ## ✨ About Me
  - I am Maheshwaran M. 
- - I am a Student developer interested in developing mobile and web applications.
- - I am also interested in web3 (Decentralized Web) and currenly learning about technologies such as Smart Contracts, Blockchain, NFTs, etc.
- - I like writing about technology and life in general.
  
  <div><p>
  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahesh1706&theme=default">
